@@ -106,7 +106,7 @@
       },
       {
         "name": "Juya AI Daily",
-        "url": "https://imjuya.github.io/juya-ai-daily/rss.xml",
+        "url": "https://daily.juya.uk/rss.xml",
         "enabled": true,
         "category": "other"
       }
